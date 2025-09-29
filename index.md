@@ -16,23 +16,6 @@ For more information, you may take a look at my [Google Scholar](https://schola
 
 
 
-## 🔥 News
-
-- **[Sep. 2025]** Two of our papers have been accepted to NeurIPS 2025, including a **Spotlight** and a Poster.
-- **[Jun. 2025]** I am honored to receive recognition as an **Outstanding Reviewer** for the SIGKDD 2025 Research Track and an **Excellent Reviewer** for the Applied Data Science (ADS) Track.
-- **[May. 2025]** I have been awarded **the first place** in Master Group of 2025 **[CCF Academic Show](https://mp.weixin.qq.com/s/EGGc0RsM-JgD9ecNBAHjIA)**.
-- **[May. 2025]** My paper "**[TAB](https://arxiv.org/pdf/2506.18046)**: Unified Benchmarking of Time Series Anomaly Detection Methods" has been accepted by **PVLDB 2025**.
-- **[May. 2025]** Our paper "**[*TSFM-Bench*](https://arxiv.org/pdf/2410.11802)**: A Comprehensive and Unified Benchmark of Foundation Models for Time Series Forecasting" has been accepted by **SIGKDD 2025**.
-- **[May. 2025]** Our paper "**[SSD-TS](https://arxiv.org/pdf/2410.13338)**: Exploring the potential of linear state space models for diffusion models in time series imputation" has been accepted by **SIGKDD 2025**.
-- **[May. 2025]** My paper "**[K2VAE](https://arxiv.org/pdf/2505.23017)**: A Koopman-Kalman Enhanced Variational AutoEncoder for Probabilistic Time Series Forecasting" has been accepted as **ICML 2025 Spotlight**.
-- **[Jan. 2025]** Our paper "**[CATCH](https://arxiv.org/pdf/2410.12261)**: Channel-Aware Multivariate Time Series Anomaly Detection via Frequency Patching" has been accepted by **ICLR 2025**.
-- **[Dec. 2024]** My paper "**[EasyTime](https://arxiv.org/pdf/2412.17603)**: Time Series Forecasting Made Easy" has been accepted by **ICDE 2025**.
-- **[Nov. 2024]** My paper "**[DUET](https://arxiv.org/pdf/2412.10859)**: Dual Clustering Enhanced Multivariate Time Series Forecasting" has been accepted by **SIGKDD 2025**.
-- **[Oct. 2024]** I have been awarded the **National Scholarship!**
-- **[Aug. 2024]** My paper "**[TFB](https://www.vldb.org/pvldb/vol17/p2363-hu.pdf)**: Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Methods" receives **VLDB 2024 Best Research Paper Award Nomination!**
-- **[Aug. 2024]** We have created a leaderboard for time series analytics, called **[OpenTS](https://decisionintelligence.github.io/OpenTS/)**.
-
-
 
 {% include_relative _includes/publications.md %}
 
@@ -43,7 +26,6 @@ For more information, you may take a look at my [Google Scholar](https://schola
 ## 💻 System and Applications
 
 - [OpenTS](https://decisionintelligence.github.io/OpenTS/): A comprehensive and fair benchmarking of time series analytics.
-- EasyTime: Time Series Forecasting Made Easy.
 - [TFB](https://github.com/decisionintelligence/TFB): Time Series Forecasting Benchmark.  ![](https://img.shields.io/github/stars/decisionintelligence/TFB)
 
 
