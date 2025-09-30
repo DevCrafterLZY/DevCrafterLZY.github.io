@@ -4,7 +4,7 @@ layout: homepage
 
 ## 👋 About Me
 
-I am currently a Master’s student (from fall, 2023) at the [School of Data Science and Engineering](https://dase.ecnu.edu.cn/) of [East China Normal University](https://www.ecnu.edu.cn/) and a member of the [Decision Intelligence Lab](https://decisionintelligence.github.io/index), advised by Prof. [Bin Yang](https://binyangdk.github.io/). 
+I am currently a Master’s student at the [School of Data Science and Engineering](https://dase.ecnu.edu.cn/) of [East China Normal University](https://www.ecnu.edu.cn/) and a member of the [Decision Intelligence Lab](https://decisionintelligence.github.io/index), advised by Prof. [Bin Yang](https://binyangdk.github.io/). 
 
 
 
@@ -19,9 +19,9 @@ For more information, you may take a look at my [Google Scholar](https://schola
 
 {% include_relative _includes/publications.md %}
 
-**Equal* *Contribution*, *#* *Corresponding* *Author*
 
 
+{% include_relative _includes/applications.md %}
 
 ## 💻 System and Applications
 
@@ -32,7 +32,7 @@ For more information, you may take a look at my [Google Scholar](https://schola
 
 ## 👀 Visitors
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=_UnR_BWZblPRwNeJPyRss9VHoFGGqw7QXdJIndRV49Q"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Kjm4Zd-uz06fWWD_PHjAJjsN9m5JlhZQdGBD9fc-9Ig&cl=ffffff&w=a"></script>
 
 
 
