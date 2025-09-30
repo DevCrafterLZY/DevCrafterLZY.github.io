@@ -1,3 +1,4 @@
+main:
   - title: "TFB: Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Methods"
     pdf: https://arxiv.org/pdf/2403.20150
     code: https://github.com/decisionintelligence/TFB
