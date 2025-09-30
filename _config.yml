@@ -7,12 +7,13 @@ email: lizhengyu@stu.ecnu.edu.cn
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: time seires, machine learning, deep learning, forecasting, benchmarking
-description: Zhengyu Li's Academic Homepage
-canonical: https://www.ecnu.edu.cn/
+description: Zhengyu Li's Homepage
+canonical: https://github.com/DevCrafterLZY
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=F10D3A8AAAAJ
+cv_link: assets/files/resume.pdf
 github_link: https://github.com/DevCrafterLZY
 
 # Images (e.g., your profile picture and your website's favicon) 
