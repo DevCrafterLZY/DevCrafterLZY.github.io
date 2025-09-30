@@ -1,6 +1,6 @@
 main:
   - title: "Unlocking the Power of Mixture-of-Experts for Task-Aware Time Series Analytics"
-    authors: Xingjian Wu, Zhengyu Li, Hanyin Cheng, <strong>Xiangfei Qiu</strong>, Jilin Hu, Chenjuan Guo, Bin Yang#
+    authors: Xingjian Wu, <strong>Zhengyu Li</strong>, Hanyin Cheng, Xiangfei Qiu, Jilin Hu, Chenjuan Guo, Bin Yang#
     conference_short: arXiv
     conference: arXiv preprint, 2025.
     pdf: https://arxiv.org/pdf/2509.22279
