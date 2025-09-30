@@ -1,5 +1,6 @@
 main:
   - title: "TFB: Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Methods"
+    descript: "A comprehensive and fair benchmarking framework for time series forecasting methods, addressing key challenges in evaluation and comparison."
     pdf: https://arxiv.org/pdf/2403.20150
     code: https://github.com/decisionintelligence/TFB
     image: ./assets/img/TFB.png
