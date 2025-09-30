@@ -1,4 +1,4 @@
-## 📝 Publications & Preprints
+## 💻 System & Applications
 
 <div class="publications">
 <ol class="bibliography">
