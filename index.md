@@ -23,11 +23,6 @@ For more information, you may take a look at my [Google Scholar](https://schola
 
 {% include_relative _includes/applications.md %}
 
-## 💻 System and Applications
-
-- [OpenTS](https://decisionintelligence.github.io/OpenTS/): A comprehensive and fair benchmarking of time series analytics.
-- [TFB](https://github.com/decisionintelligence/TFB): Time Series Forecasting Benchmark.  ![](https://img.shields.io/github/stars/decisionintelligence/TFB)
-
 
 
 ## 👀 Visitors

@@ -5,3 +5,9 @@ main:
     code: https://github.com/decisionintelligence/TFB
     image: ./assets/img/TFB.png
     others: '<img src="https://img.shields.io/github/stars/decisionintelligence/TFB?style=social" />'
+
+  - title: "Robot Automatic Aiming System"
+    descript: "An advanced automatic aiming system for robots, enhancing precision and efficiency in target acquisition. This project was for the <a href='https://www.robomaster.com/zh-CN' target='_blank'>RoboMaster</a> competition."
+    code: https://github.com/decisionintelligence/TFB
+    video: https://www.bilibili.com/video/BV1ke4y1X7gX/
+    image: ./assets/img/robomaster.gif
