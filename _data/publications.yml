@@ -1,4 +1,14 @@
 main:
+  - title: "Unlocking the Power of Mixture-of-Experts for Task-Aware Time Series Analytics"
+    authors: Xingjian Wu, Zhengyu Li, Hanyin Cheng, <strong>Xiangfei Qiu</strong>, Jilin Hu, Chenjuan Guo, Bin Yang#
+    conference_short: arXiv
+    conference: arXiv preprint, 2025.
+    pdf: https://arxiv.org/pdf/2509.22279
+    #    code: https://github.com/decisionintelligence/CS4TS
+    #    blog: https://mp.weixin.qq.com/s/W2MwOZKKrD2Lj5wOgBLz0Q
+    image: ./assets/img/PatchMOE.png
+
+  #    notes: Accepted
   - title: "Enhancing Time Series Forecasting through Selective Representation Spaces: A Patch Perspective"
     authors: Xingjian Wu, Xiangfei Qiu, Hanyin Cheng, <strong>Zhengyu Li</strong>, Jilin Hu, Chenjuan Guo, Bin Yang#
     conference_short: NeurIPS
@@ -20,8 +30,8 @@ main:
     image: ./assets/img/DAG.png
 #    blog: https://mp.weixin.qq.com/s/OfZJtd3H3-TCkvBGATt0mA
 #    notes: PVLDB, CCF A, Accepted
-    
-    
+
+
   - title: "TAB: Unified Benchmarking of Time Series Anomaly Detection Methods"
     authors: Xiangfei Qiu, Zhe Li, Wanghui Qiu, Shiyan Hu, Lekui Zhou, Xingjian Wu, <strong>Zhengyu Li</strong>, Chenjuan Guo, Aoying Zhou, Zhenli Sheng, Jilin Hu, Christian S. Jensen, Bin Yang
     conference_short: PVLDB
@@ -32,7 +42,7 @@ main:
     image: ./assets/img/TAB.png
 #    blog: https://mp.weixin.qq.com/s/OfZJtd3H3-TCkvBGATt0mA
     notes: PVLDB, CCF A, Accepted
-        
+
 
   - title: "CATCH: Channel-Aware Multivariate Time Series Anomaly Detection via Frequency Patching"
     authors: Xingjian Wu, Xiangfei Qiu, <strong>Zhengyu Li</strong>, Yihang Wang, Jilin Hu, Chenjuan Guo, Hui Xiong, Bin Yang#

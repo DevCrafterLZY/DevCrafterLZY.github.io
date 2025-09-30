@@ -11,3 +11,8 @@ main:
     code: https://github.com/decisionintelligence/TFB
     video: https://www.bilibili.com/video/BV1ke4y1X7gX/
     image: ./assets/img/robomaster.gif
+
+  - title: "RAG-Powered Research Assistant"
+    descript: "A research assistant tool leveraging Retrieval-Augmented Generation (RAG) to provide accurate and context-aware responses to user queries, enhancing research efficiency."
+    image: ./assets/img/assistant.gif
+    code: https://github.com/DevCrafterLZY/chatR-ecnu
