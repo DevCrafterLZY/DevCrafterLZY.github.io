@@ -7,26 +7,23 @@ main:
     code: https://github.com/decisionintelligence/GCGNet
     notes: ICLR, Core A*, Accepted
 
-  - title: "Unlocking the Power of Mixture-of-Experts for Task-Aware Time Series Analytics"
-    authors: Xingjian Wu, <strong>Zhengyu Li</strong>, Hanyin Cheng, Xiangfei Qiu, Jilin Hu, Chenjuan Guo, Bin Yang#
-    conference_short: arXiv
-    conference: arXiv preprint, 2025.
-    pdf: https://arxiv.org/pdf/2509.22279
-    #    code: https://github.com/decisionintelligence/CS4TS
-    #    blog: https://mp.weixin.qq.com/s/W2MwOZKKrD2Lj5wOgBLz0Q
-    image: ./assets/img/PatchMOE.png
-
-  #    notes: Accepted
   - title: "Enhancing Time Series Forecasting through Selective Representation Spaces: A Patch Perspective"
     authors: Xingjian Wu, Xiangfei Qiu, Hanyin Cheng, <strong>Zhengyu Li</strong>, Jilin Hu, Chenjuan Guo, Bin Yang#
     conference_short: NeurIPS
     conference: Neural Information Processing Systems Conference, 2025.
-#    pdf: https://arxiv.org/pdf/2506.18046
-#    code: https://github.com/decisionintelligence/TAB
-#    bibtex: https://dblp.org/rec/journals/pvldb/QiuHZWDZGZJSY24.html?view=bibtex
+    pdf: https://arxiv.org/abs/2510.14510
+    code: https://github.com/decisionintelligence/SRSNet
     image: ./assets/img/SRSNet.png
-#    blog: https://mp.weixin.qq.com/s/OfZJtd3H3-TCkvBGATt0mA
-    notes: NeurIPS, CCF A, Accepted (Spotlight)
+    notes: ✨NeurIPS, CCF A, Accepted (Spotlight, Top 3.2%)
+
+  - title: "Rethinking Irregular Time Series Forecasting: A Simple yet Effective Baseline"
+    authors: Xvyuan Liu*, Xiangfei Qiu*, Xingjian Wu, <strong>Zhengyu Li</strong>, Chenjuan Guo, Jilin Hu, Bin Yang
+    conference_short: AAAI
+    conference: AAAI Conference on Artificial Intelligence, 2026.
+    pdf: https://arxiv.org/pdf/2505.11250
+    code: https://github.com/decisionintelligence/APN
+    image: ./assets/img/APN.png
+    notes: ✨AAAI, CCF A, Accepted (Oral, Top 4%)
 
   - title: "DAG: A Dual Causal Network for Time Series Forecasting with Exogenous Variables"
     authors: Xiangfei Qiu, Yuhan Zhu, <strong>Zhengyu Li</strong>, Hanyin Cheng, Xingjian Wu, Chenjuan Guo, Bin Yang, Jilin Hu#
@@ -34,23 +31,30 @@ main:
     conference: arXiv preprint, 2026.
     pdf: https://arxiv.org/pdf/2509.14933
     code: https://github.com/decisionintelligence/DAG
-#    bibtex: https://dblp.org/rec/journals/pvldb/QiuHZWDZGZJSY24.html?view=bibtex
     image: ./assets/img/DAG.png
-#    blog: https://mp.weixin.qq.com/s/OfZJtd3H3-TCkvBGATt0mA
-#    notes: PVLDB, CCF A, Accepted
 
+  - title: "TimeART: Towards Agentic Time Series Reasoning via Tool-Augmentation"
+    authors: Xingjian Wu, Junkai Lu, <strong>Zhengyu Li</strong>, Xiangfei Qiu, Jilin Hu, Chenjuan Guo, Christian S. Jensen, Bin Yang, Bin Yang#
+    conference_short: arXiv
+    conference: arXiv preprint, 2025.
+    pdf: https://arxiv.org/pdf/2601.13653
+    image: ./assets/img/TimeART.png
+
+  - title: "Unlocking the Power of Mixture-of-Experts for Task-Aware Time Series Analytics"
+    authors: Xingjian Wu, <strong>Zhengyu Li</strong>, Hanyin Cheng, Xiangfei Qiu, Jilin Hu, Chenjuan Guo, Bin Yang#
+    conference_short: arXiv
+    conference: arXiv preprint, 2025.
+    pdf: https://arxiv.org/pdf/2509.22279
+    image: ./assets/img/PatchMOE.png
 
   - title: "TAB: Unified Benchmarking of Time Series Anomaly Detection Methods"
     authors: Xiangfei Qiu, Zhe Li, Wanghui Qiu, Shiyan Hu, Lekui Zhou, Xingjian Wu, <strong>Zhengyu Li</strong>, Chenjuan Guo, Aoying Zhou, Zhenli Sheng, Jilin Hu, Christian S. Jensen, Bin Yang
     conference_short: PVLDB
     conference: International Conference on Very Large Databases, 2025.
     pdf: https://arxiv.org/pdf/2506.18046
-    code: https://github.com/decisionintelligence/TAB
-#    bibtex: https://dblp.org/rec/journals/pvldb/QiuHZWDZGZJSY24.html?view=bibtex
     image: ./assets/img/TAB.png
-#    blog: https://mp.weixin.qq.com/s/OfZJtd3H3-TCkvBGATt0mA
+    code: https://github.com/decisionintelligence/TAB
     notes: PVLDB, CCF A, Accepted
-
 
   - title: "CATCH: Channel-Aware Multivariate Time Series Anomaly Detection via Frequency Patching"
     authors: Xingjian Wu, Xiangfei Qiu, <strong>Zhengyu Li</strong>, Yihang Wang, Jilin Hu, Chenjuan Guo, Hui Xiong, Bin Yang#
@@ -60,15 +64,4 @@ main:
     image: ./assets/img/CATCH.png
     code: https://github.com/decisionintelligence/CATCH
     blog: https://mp.weixin.qq.com/s/zhAp-texiJFnUFduJx8fgQ
-    notes: ICLR, Core A*, Accepted
-
-
-  - title: "Rethinking Irregular Time Series Forecasting: A Simple yet Effective Baseline"
-    authors: Xvyuan Liu*, Xiangfei Qiu*, Xingjian Wu, <strong>Zhengyu Li</strong>, Chenjuan Guo, Jilin Hu, Bin Yang
-    conference_short: arXiv
-    conference: arXiv preprint, 2025.
-    pdf: https://arxiv.org/pdf/2505.11250
-#    code: https://github.com/decisionintelligence/CS4TS
-#    blog: https://mp.weixin.qq.com/s/W2MwOZKKrD2Lj5wOgBLz0Q
-    image: ./assets/img/APN.png
-    
+    notes: ICLR, CCF A, Accepted
