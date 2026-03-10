@@ -11,14 +11,14 @@ I am currently a Master’s student at the [School of Data Science and Engineeri
 
 ## 🏆 Awards
 
-- **[Nov. 2025]** Our paper "[Rethinking Irregular Time Series Forecasting: A Simple yet Effective Baseline](https://arxiv.org/pdf/2505.11250)" has been accepted for an **oral presentation at AAAI 2026**.
-- **[Sep. 2025]** Our paper "[Enhancing Time Series Forecasting through Selective Representation Spaces: A Patch Perspective](https://arxiv.org/pdf/2510.14510)" has been accepted as a **Spotlight Poster** by NeurIPS 2025!
+- **[Nov. 2025]** Our paper "[Rethinking Irregular Time Series Forecasting: A Simple yet Effective Baseline](https://arxiv.org/pdf/2505.11250)" has been accepted for an **Oral Presentation** at **AAAI 2026**.
+- **[Sep. 2025]** Our paper "[Enhancing Time Series Forecasting through Selective Representation Spaces: A Patch Perspective](https://arxiv.org/pdf/2510.14510)" has been accepted as a **Spotlight Poster** by **NeurIPS 2025**.
 - **[Aug. 2025]** Our work has been awarded the **Huawei Potential High-Value Patent Award**.
-- **[Dec. 2023]** I have been awarded the Special-Class Academic Excellence Scholarship.
-- **[Aug. 2023]** Our team has been awarded the Second Prize at the [Chinese Collegiate Computing Competition](https://jsjds.blcu.edu.cn/) 2023.
-- **[Aug. 2022]** Our team has been awarded the Third Prize in the National Finals of the [RoboMaster University Championship](https://www.robomaster.com/zh-CN/) 2022.
-- **[Dec. 2022]** I have been awarded the Second-Class Academic Excellence Scholarship.
-- **[Dec. 2021]** I have been awarded the First-Class Academic Excellence Scholarship.
+- **[Dec. 2023]** I have been awarded the **Special-Class Academic Excellence Scholarship**.
+- **[Aug. 2023]** Our team has been awarded the **Second Prize** at the [Chinese Collegiate Computing Competition](https://jsjds.blcu.edu.cn/) 2023.
+- **[Aug. 2022]** Our team has been awarded the **Third Prize** in the National Finals of the [RoboMaster University Championship](https://www.robomaster.com/zh-CN/) 2022.
+- **[Dec. 2022]** I have been awarded the **Second-Class Academic Excellence Scholarship**.
+- **[Dec. 2021]** I have been awarded the **First-Class Academic Excellence Scholarship**.
 
 
 [//]: # (## 🔍 Research Topics)
