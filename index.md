@@ -20,7 +20,6 @@ I am currently a Master’s student at the [School of Data Science and Engineeri
 - **[Dec. 2022]** I have been awarded the **Second-Class Academic Excellence Scholarship**.
 - **[Dec. 2021]** I have been awarded the **First-Class Academic Excellence Scholarship**.
 
-
 [//]: # (## 🔍 Research Topics)
 
 [//]: # ()
