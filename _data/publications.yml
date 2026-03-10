@@ -5,13 +5,13 @@ main:
     conference: International Conference on Learning Representations, 2026.
     image: ./assets/img/GCGNet.png
     code: https://github.com/decisionintelligence/GCGNet
-    notes: ICLR, Core A*, Accepted
+    notes: ICLR, CCF A, Accepted
 
   - title: "Enhancing Time Series Forecasting through Selective Representation Spaces: A Patch Perspective"
     authors: Xingjian Wu, Xiangfei Qiu, Hanyin Cheng, <strong>Zhengyu Li</strong>, Jilin Hu, Chenjuan Guo, Bin Yang#
     conference_short: NeurIPS
     conference: Neural Information Processing Systems Conference, 2025.
-    pdf: https://arxiv.org/abs/2510.14510
+    pdf: https://arxiv.org/pdf/2510.14510
     code: https://github.com/decisionintelligence/SRSNet
     image: ./assets/img/SRSNet.png
     notes: NeurIPS, CCF A, Accepted (Spotlight, Top 3.2%)
