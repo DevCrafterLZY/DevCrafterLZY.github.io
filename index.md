@@ -11,9 +11,12 @@ I am currently a Master’s student at the [School of Data Science and Engineeri
 
 ## 🏆 Awards
 
+- **[Jan. 2026]** Our paper "[GCGNet: Graph-Consistent Generative Network for Time Series Forecasting with Exogenous Variables](https://arxiv.org/abs/2603.08032)" has been accepted by **ICLR 2026**.
 - **[Nov. 2025]** Our paper "[Rethinking Irregular Time Series Forecasting: A Simple yet Effective Baseline](https://arxiv.org/pdf/2505.11250)" has been accepted for an **Oral Presentation** at **AAAI 2026**.
 - **[Sep. 2025]** Our paper "[Enhancing Time Series Forecasting through Selective Representation Spaces: A Patch Perspective](https://arxiv.org/pdf/2510.14510)" has been accepted as a **Spotlight Poster** by **NeurIPS 2025**.
-- **[Aug. 2025]** Our work has been awarded the **Huawei Potential High-Value Patent Award**.
+- **[Aug. 2025]** Our work has been awarded the **Huawei Potential High-Value Patent**.
+- **[May. 2025]** Our paper "[TAB: Unified Benchmarking of Time Series Anomaly Detection Methods](https://arxiv.org/pdf/2506.18046)" has been accepted by **PVLDB 2025**.
+- **[Jan. 2025]** Our paper "[CATCH: Channel-Aware Multivariate Time Series Anomaly Detection via Frequency Patching](https://arxiv.org/pdf/2410.12261)" has been accepted by **ICLR 2025**.
 - **[Dec. 2023]** I have been awarded the **Special-Class Academic Excellence Scholarship**.
 - **[Aug. 2023]** Our team has been awarded the **Second Prize** at the [Chinese Collegiate Computing Competition](https://jsjds.blcu.edu.cn/) 2023.
 - **[Aug. 2022]** Our team has been awarded the **Third Prize** in the National Finals of the [RoboMaster University Championship](https://www.robomaster.com/zh-CN/) 2022.
