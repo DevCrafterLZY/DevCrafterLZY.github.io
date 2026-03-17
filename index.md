@@ -45,8 +45,3 @@ I am currently a Master’s student at the [School of Data Science and Engineeri
 ## 👀 Visitors
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=Kjm4Zd-uz06fWWD_PHjAJjsN9m5JlhZQdGBD9fc-9Ig"></script>
-
-
-
-
-![img_1.png](img_1.png)
